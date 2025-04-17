@@ -15,7 +15,7 @@ While not all are fully completed, I've looked into them personally and found th
 - [AI & Machine Learning](#-ai--machine-learning)
 - [Behavioral & Career Development](#-behavioral--career-development)
 - [Other Resources & Bookmarks](#-other-resources--bookmarks)
-- [YouTube Playlists](#youtube-playlists)
+- [YouTube Playlists](#-youtube-playlists)
 - [Books](#-books)
 
 
