@@ -69,7 +69,8 @@ While not all are fully completed, I've looked into them personally and found th
 - [Threading in C# (Albahari)](https://www.albahari.com/threading/)
 
 ### Java/Spring Boot
-- [Spring Boot 3, Spring 6 & Hibernate for Beginners](https://www.udemy.com/course/spring-hibernate-tutorial/)
+- [Spring Boot 3, Spring 6 & Hibernate for Beginners | Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/)
+- [Master Microservices with SpringBoot,Docker,Kubernetes | Udemy](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
 
 ### JavaScript/TypeScript
 - [Understanding TypeScript | Udemy](https://www.udemy.com/course/understanding-typescript/)
