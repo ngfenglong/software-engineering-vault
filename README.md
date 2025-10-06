@@ -129,7 +129,7 @@ While not all are fully completed, I've looked into them personally and found th
 ### 🎧 Podcast
 - [Coding Blocks | Spotify](https://open.spotify.com/show/23WSDfrSBULg0pBNGNWPMb?si=ddc4888db8e14014)
 - [Go Time: Golang, Software Engineering | Spotify](https://open.spotify.com/show/2cKdcxETn7jDp7uJCwqmSE?si=5378837bed334f12)
-
+- [Byond Coding | Spotify](https://open.spotify.com/show/7asIKIPU3N6n0SNWHxwMnQ?si=d380c78b6e5441cb)
 
 ### 🛠 Coding Practice
 - [Leetcode](https://leetcode.com/)
@@ -174,9 +174,11 @@ While not all are fully completed, I've looked into them personally and found th
 - *The Manager's Path* – Camille Fournier
 - *The Lean Startup* – Eric Ries
 
-
 ### 📖 Software Craftsmanship
 - *Clean Code* – Robert C. Martin
+
+### 📖 Java & Spring 
+- *Spring in Action* - Craig Walls 
 
 ### 📖 Personal Growth & Productivity
 - *No Excuses* -  Brian Tracy
