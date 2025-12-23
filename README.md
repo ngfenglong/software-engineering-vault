@@ -49,7 +49,7 @@ While not all are fully completed, I've looked into them personally and found th
 - [Frank Kane: Mastering System Design | Udemy](https://www.udemy.com/course/system-design-interview-prep/)
 - [System Design Mock Interviews - Playlist | Youtube](https://www.youtube.com/playlist?list=PLCRMIe5FDPseVvwzRiCQBmNOVUIZSSkP8)
 - [System Design Interview Prep (Exponent) | Youtube](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
-
+- [System Design Interview Concepts | Youtube](https://www.youtube.com/watch?v=tIgNvmRO3e0)
 ---
 
 ## 🛠 Programming Languages & Frameworks
@@ -71,6 +71,7 @@ While not all are fully completed, I've looked into them personally and found th
 ### Java/Spring Boot
 - [Spring Boot 3, Spring 6 & Hibernate for Beginners | Udemy](https://www.udemy.com/course/spring-hibernate-tutorial/)
 - [Master Microservices with SpringBoot,Docker,Kubernetes | Udemy](https://www.udemy.com/course/master-microservices-with-spring-docker-kubernetes/)
+- [Java pass by Value](https://www.javadude.com/post/20010516-pass-by-value/)
 
 ### JavaScript/TypeScript
 - [Understanding TypeScript | Udemy](https://www.udemy.com/course/understanding-typescript/)
@@ -159,6 +160,10 @@ While not all are fully completed, I've looked into them personally and found th
 ### 🧼 Software Craftmanship
 - [Clean Code - Uncle Bob Series](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
 
+### Java
+- [Spring Boot 3 Microservices - Programming Techie](https://www.youtube.com/playlist?list=PLSVW22jAG8pDeU80nDzbUgr8qqzEMppi8)
+
+
 
 ---
 ## 📚 Books
@@ -179,6 +184,8 @@ While not all are fully completed, I've looked into them personally and found th
 
 ### 📖 Java & Spring 
 - *Spring in Action* - Craig Walls 
+- *Java by Comparison* - Simon Harrer, Jorg Lenhard, Linus Dietz
+
 
 ### 📖 Personal Growth & Productivity
 - *No Excuses* -  Brian Tracy
